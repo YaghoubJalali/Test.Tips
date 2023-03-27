@@ -1,9 +1,8 @@
-## Test.Tips
-This is a project to implement tips in the test.
-
+## Test.Tips 
+    or 'Test Happy Hour'  :-))
 
 ## Purpose
-In this project you can find tips and best practices for test methods. Also, the implementation of the codes introduced in LinkedIn articles are included in this project.
+In this project, you can find tips, best practices or tools to use in your test methods. Also, the implementation of the codes introduced in LinkedIn articles are included in this project.
 
 
 ## Used Framework and libraries
