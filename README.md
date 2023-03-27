@@ -17,7 +17,7 @@ In this project you can find tips and best practices for test methods. Also, the
 
 ## Contents
 
-- [`State Pattern Test`](https://github.com/YaghoubJalali/Test.Tips/blob/master/Library.Tests.Unit/DocumentTests_When_State_Is_Draft.cs) - Implementation of State Machine Readeable Tests. Read the related article [`here`](https://linkedIn.com) .
+- [`State Pattern Test`](https://github.com/YaghoubJalali/Test.Tips/blob/master/Library.Tests.Unit/DocumentTests_When_State_Is_Draft.cs) - Implementation of State Machine Readable Tests. Read the related article [`here`](https://linkedIn.com) .
 
 
   
