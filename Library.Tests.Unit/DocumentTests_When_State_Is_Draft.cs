@@ -38,7 +38,6 @@ namespace Library.Tests.Unit
             return new List<object[]>
             {
                 new object[] { new Action<Document>(a=> a.Publish())},
-                new object[] { new Action<Document>(a=> a.Publish())},
             };
         }
 
